@@ -41,3 +41,12 @@ Este projeto tem como objetivo automatizar o processo de cadastro de produtos a 
 
 ## Estrutura do Projeto
 
+
+
+## Contribuindo
+Sinta-se à vontade para abrir issues e pull requests para melhorias e sugestões. Toda contribuição é bem-vinda!
+
+## Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
